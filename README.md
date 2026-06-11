@@ -30,13 +30,14 @@ A full-stack Product Store application built using the MERN stack. Users can cre
 * MongoDB
 * Mongoose
 
-## 📸 Screenshot
-
-![Product Store Screenshot](YOUR_SCREENSHOT_URL_HERE)
-
 ## 🌐 Live Demo
 
-🔗 **Deployed Link:** YOUR_DEPLOYED_LINK_HERE
+🔗 **Deployed Link:** https://mern-product-store-fkmu.onrender.com/
+
+## 📸 Screenshot
+
+<img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/b35ad3c8-a706-46e6-9531-7d0481a59631" />
+
 
 ## ⚙️ Installation
 

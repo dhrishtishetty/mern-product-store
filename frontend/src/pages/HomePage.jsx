@@ -13,7 +13,7 @@ const HomePage = () => {
   console.log("products", products);
 
   return (
-    <Container maxW='container.xl' py={6}>
+    <Container maxW='container.xl' py={10}>
       <VStack spacing={8}>
         <Text
           fontSize={"28"}

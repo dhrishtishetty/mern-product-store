@@ -9,20 +9,20 @@ const Navbar = () => {
 	const { colorMode, toggleColorMode } = useColorMode();
 
 	return (
-		<Container maxW={"1140px"} px={4} pt={10}>
+		<Container maxW={"1140px"} px={4} pt={4}>
 			<Flex
-  h={{ base: "auto", sm: 16 }}
-  alignItems={"center"}
-  justifyContent={"space-between"}
-  flexDir={{
-    base: "column",
-    sm: "row",
-  }}
-  gap={{ base: 3, sm: 0 }}
-  py={{ base: 3, sm: 0 }}
-  borderBottomWidth="1px"
-  borderColor="green.400"
->
+  				h={{ base: "auto", sm: 16 }}
+  				alignItems={"center"}
+  				justifyContent={"space-between"}
+  				flexDir={{
+    				base: "column",
+    				sm: "row",
+  				}}
+  				gap={{ base: 3, sm: 0 }}
+  				py={{ base: 3, sm: 0 }}
+  				borderBottomWidth="1px"
+  				borderColor="green.400"
+			>
 				<Text
 					fontSize={{ base: "22px", sm: "28px", md: "30px" }}
 					fontWeight={"bold"}
